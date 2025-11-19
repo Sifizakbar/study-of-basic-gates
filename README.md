@@ -79,7 +79,7 @@ Y= A⊕B
 
 **RTL**
 
-<img width="1920" height="1200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/f1d03a9d-b9c9-47ac-abc8-1dab11226896" />
+<img width="840" height="643" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/73aeb5f5-0f64-4631-94e6-24a72b248f62" />
 
 
 **Result:**
